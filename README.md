@@ -87,4 +87,3 @@ Computer Engineer
 
 ## 📄 Lisans
 Bu proje **MIT License** kapsamında açık kaynak olarak paylaşılmıştır.
-```
